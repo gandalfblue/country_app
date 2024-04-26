@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">country_app</string>
+    <string name="img_content_description">Image of the country</string>
+    <string name="maps">Go</string>
+</resources>
